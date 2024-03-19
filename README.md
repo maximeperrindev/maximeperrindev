@@ -14,10 +14,10 @@ I'm Maxime (a.k.a. maximeperrindev), a Software engineer specializing in web dev
 
 🎯 Objective: Aiming to shape the future of technology and foster the open-source spirit.
 
-📫 Let's Connect:
+📫 Let's connect:
 
-LinkedIn: maxime-perrin42
+- LinkedIn: maxime-perrin42
 
-Twitter: @maximeperrin_
+- Twitter: @maximeperrin_
 
 Feel free to browse through my repositories and get in touch!
