@@ -2,15 +2,15 @@
 
 ### Hi there 👋
 
-I'm Maxime (a.k.a. maximeperrindev), a Software Engineer specializing in web development and artificial intelligence. Here's what you should know about me:
+I'm Maxime (a.k.a. maximeperrindev), a Software engineer specializing in web development and artificial intelligence. Here's what you should know about me:
 
-🌐 Web Development & AI Specialist: Passionate about crafting innovative solutions.
+🌐 Web development & AI Specialist: Passionate about crafting innovative solutions.
 
-📝 Active Contributor to the open-source project Langchain.
+📝 Active contributor to the open-source project [Langchain](https://github.com/langchain-ai/langchain).
 
 🚀 Founder of Sprintgen.io, an AI-driven agile project booster.
 
-🛠 Tech Stack: Proficient in Python, PHP, C++.
+🛠 Tech stack: Proficient in Python, PHP, C++.
 
 🎯 Objective: Aiming to shape the future of technology and foster the open-source spirit.
 
