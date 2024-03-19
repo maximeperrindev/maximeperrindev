@@ -1,6 +1,6 @@
-### Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=maximeperrindev&label=visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=maximeperrindev&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+### Hi there 👋
 
 I'm Maxime (a.k.a. maximeperrindev), a Software Engineer specializing in web development and artificial intelligence. Here's what you should know about me:
 
